@@ -15,6 +15,8 @@ This repository provides a comprehensive tutorial and implementation framework f
 
 Based on the paper: **"AI-powered precision medicine: utilizing genetic risk factor optimization to revolutionize healthcare"** by Alsaedi et al. (2024), published in *NAR Genomics and Bioinformatics*.
 
+![Image](https://github.com/user-attachments/assets/a23a41c4-94e0-48d3-9378-d5f7a702536b)
+
 ## 🌟 Key Features
 
 ### 🧬 **Comprehensive Genetic Analysis**
