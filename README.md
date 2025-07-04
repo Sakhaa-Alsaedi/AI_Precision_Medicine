@@ -5,6 +5,8 @@
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)](https://colab.research.google.com/)
 
+![Image](https://github.com/user-attachments/assets/68d263c5-0a01-4d8b-a871-eaed1fd63b0d)
+
 > **Revolutionizing healthcare through AI-powered genetic risk factor optimization and precision medicine workflows**
 
 ## 🎯 Overview
